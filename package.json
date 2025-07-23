@@ -8,9 +8,10 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Juan Arismendy",
+  "type": "module",
+  "license": "MIT",
+  "description": "Sistema de gestion de productos",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0"
